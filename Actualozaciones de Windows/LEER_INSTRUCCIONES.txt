@@ -1,0 +1,15 @@
+GUIA DE USO - CONTROL DE DATOS
+==============================
+
+IMPORTANTE:
+SIEMPRE debes ejecutar estos archivos como ADMINISTRADOR.
+
+1. CUANDO ESTES CON DATOS MOVILES (ETECSA):
+   - Haz clic DERECHO sobre "DETENER_CONSUMO_DATOS.bat"
+   - Elige "Ejecutar como administrador".
+   -> Esto congela Windows Update para que no gaste ni un mega.
+
+2. CUANDO TENGAS INTERNET ILIMITADO:
+   - Haz clic DERECHO sobre "PERMITIR_ACTUALIZACIONES.bat"
+   - Elige "Ejecutar como administrador".
+   -> Esto reactiva todo para mantener tu PC al dia.
